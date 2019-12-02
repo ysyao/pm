@@ -8,7 +8,7 @@
     * [1.1.2 信息系统的基本概念](informatization/informatization-and-system/information-system.md)
     * [1.1.3 信息化的基本概念](informatization/informatization-and-system/informatization.md)
     * [1.1.4 信息系统生命周期](informatization/informatization-and-system/lifecycle.md)
-  * [1.2 信息系统开发方法](informatization/develop-methods/develop-mothods.md)
+  * [1.2 信息系统开发方法](informatization/develop-methods/develop-methods.md)
     * [1.2.1 结构化方法](informatization/develop-methods/SD.md)
     * [1.2.2 面向对象方法](informatization/develop-methods/OO.md)
     * [1.2.3 原型化方法](informatization/develop-methods/Prototype.md)
