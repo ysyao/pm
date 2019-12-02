@@ -1,0 +1,21 @@
+# Summary
+
+* [写在开始前](README.md)
+* [考试大纲](introduction/introduction.md)
+* [信息化和信息系统](informatization/introduction.md)
+  * [1.1 信息和信息化系统](informatization/informatization-and-system/informatization-and-system.md)
+    * [1.1.1 信息的基本概念](informatization/informatization-and-system/information.md)
+    * [1.1.2 信息系统的基本概念](informatization/informatization-and-system/information-system.md)
+    * [1.1.3 信息化的基本概念](informatization/informatization-and-system/informatization.md)
+    * [1.1.4 信息系统生命周期](informatization/informatization-and-system/lifecycle.md)
+  * [1.2 信息系统开发方法](informatization/develop-methods/develop-mothods.md)
+    * [1.2.1 结构化方法](informatization/develop-methods/SD.md)
+    * [1.2.2 面向对象方法](informatization/develop-methods/OO.md)
+    * [1.2.3 原型化方法](informatization/develop-methods/Prototype.md)
+    * [1.2.4 面向服务的方法](informatization/develop-methods/SO.md)
+  * [1.4 软件工程](informatization/software-engineering/software-engineering.md)
+    * [1.4.1 需求分析](informatization/software-engineering/demand-analysis.md)
+    * [1.4.2 软件架构设计](informatization/software-engineering/architecture-design.md)
+    * [1.4.3 软件设计](informatization/software-engineering/software-design.md)
+    * [1.4.4 软件工程的过程管理](informatization/software-engineering/process-management.md)
+

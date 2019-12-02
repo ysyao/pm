@@ -1,0 +1,10 @@
+{
+  "plugins": ["theme-comscore"],
+  "pluginsConfig": {
+    "fontSettings": {
+      "theme": "sepia",
+      "family": "serif",
+      "size": 1
+    }
+  }
+}
