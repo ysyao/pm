@@ -8,11 +8,13 @@
     * [1.1.2 信息系统的基本概念](informatization/informatization-and-system/information-system.md)
     * [1.1.3 信息化的基本概念](informatization/informatization-and-system/informatization.md)
     * [1.1.4 信息系统生命周期](informatization/informatization-and-system/lifecycle.md)
+    
   * [1.2 信息系统开发方法](informatization/develop-methods/develop-methods.md)
     * [1.2.1 结构化方法](informatization/develop-methods/SD.md)
     * [1.2.2 面向对象方法](informatization/develop-methods/OO.md)
     * [1.2.3 原型化方法](informatization/develop-methods/Prototype.md)
     * [1.2.4 面向服务的方法](informatization/develop-methods/SO.md)
+    
   * [1.3 常规信息系统集成技术](informatization/system-integration/system-integration.md)
     * [1.3.1 网络标准与网络协议](informatization/system-integration/network-std.md)
     * [1.3.2 网络设备](informatization/system-integration/network-device.md)
@@ -24,9 +26,16 @@
     * [1.3.8 数据仓库技术](informatization/system-integration/data-repo.md)
     * [1.3.9 中间件技术](informatization/system-integration/middleware.md)
     * [1.3.10 高可用性和高可靠性的规划与设计](informatization/system-integration/Plan-Design.md)
+    
   * [1.4 软件工程](informatization/software-engineering/software-engineering.md)
     * [1.4.1 需求分析](informatization/software-engineering/demand-analysis.md)
     * [1.4.2 软件架构设计](informatization/software-engineering/architecture-design.md)
     * [1.4.3 软件设计](informatization/software-engineering/software-design.md)
     * [1.4.4 软件工程的过程管理](informatization/software-engineering/process-management.md)
 
+  * [1.5 新一代信息技术](informatization/new-tech/new-tech.md)
+    * [1.5.1 物联网](informatization/new-tech/IoT.md)
+    * [1.5.2 云计算](informatization/new-tech/Cloud-Computing.md)
+    * [1.5.3 大数据](informatization/new-tech/BigData.md)
+    * [1.5.4 移动互联](informatization/new-tech/Mobile-Internet.md)
+    
