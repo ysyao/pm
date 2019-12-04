@@ -14,6 +14,8 @@ ISO和CCITT联合指定的开放系统互联参考模型（OSI），采用了分
 * 表示层：JPEG、ASCII、GIF、DES、MPEG。
 * 应用层：HTTP、Telnet、FTP、SMTP。
 
+> 具体网络协议的内容参考[阮一峰《互联网协议入门》](https://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
+
 ## 网络协议和标准
 
 以太网规范IEEE802.3是重要的局域网协议，包括：
