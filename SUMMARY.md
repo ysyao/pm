@@ -38,4 +38,9 @@
     * [1.5.2 云计算](informatization/new-tech/Cloud-Computing.md)
     * [1.5.3 大数据](informatization/new-tech/BigData.md)
     * [1.5.4 移动互联](informatization/new-tech/Mobile-Internet.md)
+  * [1.6 信息系统安全技术](informatization/security-tech/security-tech.md)
+    * [1.6.1 信息安全的有关概念](informatization/security-tech/security-tech-content.md)
+    * [1.6.2 信息加密、解密与常用算法](informatization/security-tech/encryption-decryption.md)
     
+  
+  
