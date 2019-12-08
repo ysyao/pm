@@ -43,4 +43,8 @@
   * [1.7 信息化发展与应用](informatization/informatization-strategy/informatization-strategy.md)
     * [1.7.1 信息化发展与应用的新特点](informatization/informatization-strategy/traits.md)
     * [1.7.2 国家信息化发展战略](informatization/informatization-strategy/strategy.md)
+    * [1.7.3 电子政务](informatization/informatization-strategy/e-government.md)
+    * [1.7.4 电子商务](informatization/informatization-strategy/e-conmmerce.md)
+    * [1.7.5 工业和信息化融合](informatization/informatization-strategy/merge.md)
+    * [1.7.6 智慧化](informatization/informatization-strategy/intelligence.md)
   
