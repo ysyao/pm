@@ -47,4 +47,9 @@
     * [1.7.4 电子商务](informatization/informatization-strategy/e-conmmerce.md)
     * [1.7.5 工业和信息化融合](informatization/informatization-strategy/merge.md)
     * [1.7.6 智慧化](informatization/informatization-strategy/intelligence.md)
+  * [1.8 信息系统服务管理](informatization/It-service-management/it-service-management.md)
+    * [1.8.1 信息系统服务业及发展](informatization/It-service-management/it-service-intro.md)
+    * [1.8.2 信息系统工程监理的概念和发展](informatization/It-service-management/supervisor.md)
+    * [1.8.3 信息系统运行维护的概念和发展](informatization/It-service-management/maintain.md)
+    * [1.8.4 信息技术服务管理的标准和框架](informatization/It-service-management/standard.md)
   
