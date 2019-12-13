@@ -52,4 +52,9 @@
     * [1.8.2 信息系统工程监理的概念和发展](informatization/It-service-management/supervisor.md)
     * [1.8.3 信息系统运行维护的概念和发展](informatization/It-service-management/maintain.md)
     * [1.8.4 信息技术服务管理的标准和框架](informatization/It-service-management/standard.md)
+  * [1.9 信息系统规划](informatization/It-system-design/it-system-design.md)
+    * [1.9.1 大型信息系统](informatization/It-system-design/big-it-system.md)
+    * [1.9.2 信息系统的规划方法](informatization/It-system-design/it-system-design-method.md)
+    * [1.9.3 信息系统的规划工具](informatization/It-system-design/it-system-design-tools.md)
+  * [1.10 企业首席信息官及其职责](informatization/cio/cio.md)
   
